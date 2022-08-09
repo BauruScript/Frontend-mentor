@@ -29,8 +29,8 @@ Kinda hard in the beginning but can solve this challenge was really satisfying, 
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/) - This helped me with css struggles
-- [Example resource 2](https://www.youtube.com/watch?v=aINs3ouaoJk&ab_channel=JavaF%C3%A1cil) - Help me with the github settings
+- [w3schools](https://www.w3schools.com/) - This helped me with css struggles
+- [youtube](https://www.youtube.com/watch?v=aINs3ouaoJk&ab_channel=JavaF%C3%A1cil) - Help me with the github settings
 
 ## Author
 
